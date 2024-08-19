@@ -2,8 +2,9 @@
 #pragma once
 #include "common/definitions.h"
 
-#include <optional>
 #include "codeunit_sequence_view.h"
+#include "text.h"
+#include <optional>
 
 namespace ostr
 {
